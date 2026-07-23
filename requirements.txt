@@ -1,0 +1,6 @@
+pypdf
+pdfplumber
+google-genai
+numpy
+scipy
+python-dotenv
